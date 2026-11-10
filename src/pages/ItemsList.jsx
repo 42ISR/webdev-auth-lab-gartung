@@ -1,5 +1,6 @@
 import ItemCard from '../components/ItemCard'
 
+
 const ItemsList = () => {
     return (
         <div className="container">
